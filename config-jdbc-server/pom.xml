@@ -11,10 +11,10 @@
 	</parent>
 
 	<groupId>co.com.micha3lvega</groupId>
-	<artifactId>example-deploy-weblogic</artifactId>
+	<artifactId>config-jdbc-server</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>config-jdbc-server</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Servidor para leer las propiedades desde base de datos</description>
 
 	<properties>
 		<java.version>17</java.version>
